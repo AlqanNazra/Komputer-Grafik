@@ -1,4 +1,0 @@
-# README
-
-## Class pada Python
-
